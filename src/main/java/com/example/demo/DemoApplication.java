@@ -20,5 +20,9 @@ int c;
 c=a+b;
 return c;
 }
+public int substraction(int a ,int b){
+int c=a-b;
+return c;
+}
 
 }
